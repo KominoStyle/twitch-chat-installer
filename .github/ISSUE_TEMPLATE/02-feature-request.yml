@@ -1,0 +1,23 @@
+name: Feature request
+description: Propose a new feature for Twitch Chat.
+labels: [feature-request]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: What would you like to add?
+      description: Describe the feature and how you would use it.
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What would this help you do?
+      description: Explain the task or problem this feature would help with.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples or alternatives
+      description: Add a screenshot, link or workaround if you have one.

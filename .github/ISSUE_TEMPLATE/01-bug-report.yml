@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a problem with Twitch Chat or its installer.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Shown under General → Updates. Enter unknown if the app will not open.
+      placeholder: 0.3.23
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and include any error message you see.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: If possible, list the steps. For intermittent problems, include how often it happens.
+      placeholder: |
+        1. Open…
+        2. Select…
+        3. The problem occurs when…
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Screenshots or additional details
+      description: You can paste screenshots here if they help explain the problem.

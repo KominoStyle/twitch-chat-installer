@@ -1,0 +1,23 @@
+name: Improvement suggestion
+description: Suggest an improvement to an existing feature or workflow.
+labels: [enhancement]
+body:
+  - type: input
+    id: area
+    attributes:
+      label: Which part would you improve?
+      placeholder: Emote menu, chat input, window settings…
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Describe the current behavior and how you would improve it.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples or screenshots
+      description: Add an example if it helps show what you mean.

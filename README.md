@@ -25,3 +25,7 @@ Open **General → Updates** to check for a new version. When one is available, 
 ## Uninstall
 
 Choose **Quit** from the tray, then uninstall **Twitch Chat** in Windows Settings. Select **Also delete settings, Twitch sign-in and cached data** if you want to remove the saved app data too.
+
+## Feedback
+
+[Report a bug](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=01-bug-report.yml) · [Request a feature](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=02-feature-request.yml) · [Suggest an improvement](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=03-improvement-suggestion.yml)
