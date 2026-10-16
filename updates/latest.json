@@ -1,0 +1,11 @@
+{
+  "version": "0.3.23",
+  "notes": "Twitch Chat for Windows x64.\n\n- Original Twitch chat in a transparent desktop window, with adjustable colors, text and window behavior.\n- Twitch, BetterTTV, FrankerFaceZ and 7TV emotes with inline Tab completion and chat input history.\n- Separate message and input font sizes, with compact, centered input emotes.\n- Updates in General, with download progress, verification and an explicit Install and restart action.\n\nNew installations start without a selected channel. Enter one in General and sign in to Twitch to open chat. Updates preserve your settings and Twitch sign-in.\n",
+  "pub_date": "2026-10-15T17:39:48.411Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://twitch-chat-downloads.kominostyle-twitchchat.workers.dev/packages/v0.3.23/TwitchChat_0.3.23_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVQ2bDc2K1JhU1NSRUdTbkNSSzQzUFVCQ2txSUhqVWJkWlJPWEFVcndJUkR1bjBQbDZCbFkyNGFDYi9VNHpTdk16eTNVOUVrWUZ1ejRqMGphOGg5VjBzblZrSWFBZ3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDg1ODk4CWZpbGU6VHdpdGNoIENoYXRfMC4zLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjMKMUJVaTNFMkwvMU5Zc09xK0J1WnNUSEJZcXpBZmxCVk1QakUvcmwxLzhIbGRWVXBSdWRYL25oa2JIb251anFDRlYzMFpJeCtWN1dnNWNVZk16R3JrRHc9PQo="
+    }
+  }
+}
