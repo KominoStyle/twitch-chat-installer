@@ -28,4 +28,6 @@ Choose **Quit** from the tray, then uninstall **Twitch Chat** in Windows Setting
 
 ## Feedback
 
+Use **Help & feedback** in General or **Feedback** at the bottom right of Settings to choose a form.
+
 [Report a bug](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=01-bug-report.yml) · [Request a feature](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=02-feature-request.yml) · [Suggest an improvement](https://github.com/KominoStyle/twitch-chat-installer/issues/new?template=03-improvement-suggestion.yml)
