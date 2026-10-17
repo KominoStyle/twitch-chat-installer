@@ -12,8 +12,8 @@ Keep Twitch chat above your game. Adjust its background, text and emotes, then w
     <th width="50%">Messages and emotes only</th>
   </tr>
   <tr>
-    <td width="50%"><img src="images/chat-default.png" alt="Default chat" width="360"></td>
-    <td width="50%"><img src="images/chat-messages-emotes.png" alt="Messages and emotes only" width="360"></td>
+    <td width="50%"><img src="images/chat-default-moondye7.png" alt="Default chat" width="360"></td>
+    <td width="50%"><img src="images/chat-messages-emotes-moondye7.png" alt="Messages and emotes only" width="360"></td>
   </tr>
 </table>
 
