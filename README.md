@@ -6,14 +6,14 @@ Keep Twitch chat above your game. Adjust its background, text and emotes, then w
 
 **[Download for Windows](https://github.com/KominoStyle/twitch-chat-installer/releases/latest/download/TwitchChat-Setup.exe)** · Windows x64
 
-<table>
+<table align="center">
   <tr>
     <th width="50%">Default chat</th>
     <th width="50%">Messages and emotes only</th>
   </tr>
   <tr>
-    <td width="50%"><img src="images/chat-default-moondye7.png" alt="Default chat" width="360"></td>
-    <td width="50%"><img src="images/chat-messages-emotes-moondye7.png" alt="Messages and emotes only" width="360"></td>
+    <td width="50%"><img src="images/chat-default-moondye7-connected.png" alt="Default chat" width="360"></td>
+    <td width="50%"><img src="images/chat-messages-emotes-moondye7-connected.png" alt="Messages and emotes only" width="360"></td>
   </tr>
 </table>
 
