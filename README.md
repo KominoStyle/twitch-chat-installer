@@ -12,6 +12,12 @@ Keep Twitch chat above your game. Adjust its background, text and emotes, then w
 
 Default app appearance with Twitch's dark theme. Channel content varies.
 
+## Messages and emotes only
+
+![Twitch Chat in Messages and emotes only view with dark appearance](images/chat-messages-emotes.png)
+
+Same dark appearance, with the header and message input hidden. Choose **General → Chat view → Messages and emotes only**.
+
 ## Appearance settings
 
 ![Twitch Chat appearance settings](images/settings.png)
