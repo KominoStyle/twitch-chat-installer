@@ -6,6 +6,14 @@ Keep Twitch chat above your game. Adjust its background, text and emotes, then w
 
 **[Download for Windows](https://github.com/KominoStyle/twitch-chat-installer/releases/latest/download/TwitchChat-Setup.exe)** · Windows x64
 
+## Default chat
+
+![Twitch Chat with default appearance and Twitch's dark theme](images/chat-default.png)
+
+Default app appearance with Twitch's dark theme. Channel content varies.
+
+## Appearance settings
+
 ![Twitch Chat appearance settings](images/settings.png)
 
 ## Get started
