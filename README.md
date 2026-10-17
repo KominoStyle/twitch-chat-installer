@@ -6,17 +6,16 @@ Keep Twitch chat above your game. Adjust its background, text and emotes, then w
 
 **[Download for Windows](https://github.com/KominoStyle/twitch-chat-installer/releases/latest/download/TwitchChat-Setup.exe)** · Windows x64
 
-## Default chat
-
-![Twitch Chat with default appearance and Twitch's dark theme](images/chat-default.png)
-
-Default app appearance with Twitch's dark theme. Channel content varies.
-
-## Messages and emotes only
-
-![Twitch Chat in Messages and emotes only view with dark appearance](images/chat-messages-emotes.png)
-
-Same dark appearance, with the header and message input hidden. Choose **General → Chat view → Messages and emotes only**.
+<table>
+  <tr>
+    <th width="50%">Default chat</th>
+    <th width="50%">Messages and emotes only</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/chat-default.png" alt="Default chat" width="360"></td>
+    <td width="50%"><img src="images/chat-messages-emotes.png" alt="Messages and emotes only" width="360"></td>
+  </tr>
+</table>
 
 ## Appearance settings
 
