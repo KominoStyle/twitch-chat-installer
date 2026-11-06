@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/title.png" alt="Komino Style Twitch Chat" width="360">
+  <img id="readme-top" src="images/title.png" alt="Komino Style Twitch Chat" width="360">
 </h1>
 
 <h3 align="center">Float it. Style it. Read it.</h3>
