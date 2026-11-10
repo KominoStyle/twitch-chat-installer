@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.30-9146FF?style=flat-square" alt="Version 0.3.30">
+  <img src="https://img.shields.io/badge/version-0.4.20-9146FF?style=flat-square" alt="Version 0.4.20">
   <img src="https://img.shields.io/badge/Windows-64--bit-2b2b2b?style=flat-square" alt="Windows 64-bit">
   <img src="https://img.shields.io/badge/license-all%20rights%20reserved-6e7681?style=flat-square" alt="All rights reserved">
 </p>
@@ -69,7 +69,7 @@
   <sub>Enter a channel and sign in.</sub>
 </p>
 
-4. **Style** it: click a layer to change Background, Text, Emotes or Window.
+4. **Make it yours:** click a layer to change Background, Text, Emotes, Window, Chat tools or Twitch extras.
 
 <p align="center">
   <img src="images/step-background.png" alt="Background layer with opacity set to 50%" width="100%"><br>
@@ -97,11 +97,12 @@ Changes save automatically.
 
 | Section | What you change |
 | --- | --- |
-| **General** | Twitch account, channel, chat view, updates |
+| **General** | Twitch account, channel, chat view, updates, GuideMe |
 | **Window** | Always on top, frame, lock, Click-Through, size and position |
 | **Background** | Color, opacity, saved color pairs, **Pick from desktop** |
 | **Text** | Font, message, input and status font size, outline, spacing |
 | **Emotes** | Emote providers, animations, GIFs, badges, celebrations |
+| **Chat tools** | Replies, threads, deleted messages, highlights, sounds, automatic claims and Raids |
 | **Twitch extras** | Hide leaderboard, Hype Train, pinned messages or the Cheers button |
 
 ## Shortcuts
@@ -120,8 +121,7 @@ The app connects to Twitch, to 7TV, BetterTTV and FrankerFaceZ for their emotes,
 ## Status
 
 > [!IMPORTANT]
-> **Works today:** see-through chat window, writing in chat, channel points, Twitch, 7TV, BetterTTV and FrankerFaceZ emotes, in-app updates.<br>
-> **Coming next:** a new **Chat tools** layer with your own highlights and sounds, big emote previews, automatic bonus Channel Points, a built-in guide.
+> **Works today:** see-through chat window, writing in chat, channel points, Twitch, 7TV, BetterTTV and FrankerFaceZ emotes, in-app updates, the built-in **GuideMe**, big emote previews and the **Chat tools** layer with highlights, sounds, automatic claims and Raid participation.
 
 ## Download
 
