@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.4.20 — 2026-11-10
+
+GuideMe, a new Chat tools layer and more control over how you read and use Twitch Chat.
+
+## New
+- **GuideMe** A nine-step Quick Guide, an interactive Settings explorer, illustrated instructions and troubleshooting help are available from General and the Feedback menu. What's new shows the changes in your installed public version.
+- **Chat tools** Find replies, threads, reading direction, alternating backgrounds, deleted messages, highlights, sounds and automatic actions in one layer.
+- **Your own message highlights** Match words, sender names or Twitch badges. Choose colors, sounds and separate channel exceptions, manage rules and use your own short imported notification sounds.
+- **Deleted messages** Choose Twitch's normal behavior, hide deleted rows, or keep and highlight messages that this app already received. Choose text or full-line highlighting.
+- **New message sound** Get a separate notification for new messages in your own channel, with its own volume and minimum interval. Your own messages and native Bot-badged messages are excluded.
+- **Automatic Raid participation** Choose destination channels with a Blacklist or Whitelist. A Raid from your open Chat minimizes the original Chat and opens the destination at the same position. Later Raids reuse that temporary Chat; Close Chat closes both.
+- **Automatic claims** Use the original available Bonus Channel Points and earned Drops claim actions while Chat is open.
+- **Windows startup** Choose whether the app opens when Windows starts, independently of opening Chat when the app starts.
+- **User cards** See public account details, LIVE status and a paused preview for channels confirmed live.
+
+## Improved
+- **Settings beside your Chat** Move Settings by its header and pin it to keep it open when clicking elsewhere. Window layout controls, saved positions and Click-Through work together more consistently.
+- **Readable text** Additional sizes cover replies, rewards, subscription and other event notices. Match message size while retaining the last independent value, and keep the message input at its own size.
+- **Color controls** Share useful text and highlight colors, reuse background combinations and use the Color picker.
+- **Emotes and emojis** Inspect larger previews and original emote details, search the emote menu, reuse recent choices and complete emotes or usernames with Tab.
+- **Reading conversations** Open a thread without replying, choose newer messages at the top and separate ordinary neighboring messages with alternating backgrounds.
+- **Media previews** Shared playback and volume controls, refreshed media when resuming and improved handling when a live preview falls behind.
+- **Update history** Read public release history and open an eligible older version separately from the notes for an offered update. History loads on demand and preserves the place you are reading.
+
+## Fixed
+- **Transparent notices** Subscription, reward, status and other message notice backgrounds follow Chat's opacity and Click-Through while preserving their colors and readable text.
+- **Twitch panels** Hiding the leaderboard preserves polls and other shared community events. Raid and Hype Train displays retain their independent behavior.
+- **Chat and input details** Improved text and emote alignment, reply presentation, emote previews, input completion and public account details.
+- **Reliable controls** Settings keep focus and current edits during background saves; hidden-frame movement, window controls, update handling and supported Twitch navigation receive further fixes.
+
 ## 0.3.30 — 2026-10-16
 
 A more reliable Twitch sign-in, clearer updates and easier access to feedback.
